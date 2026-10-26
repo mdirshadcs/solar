@@ -1,0 +1,9 @@
+{
+  "identities": [
+    {
+      "name": "solarerp-local",
+      "credentials": [{ "accessKey": "solarerp", "secretKey": "change-me-s3" }],
+      "actions": ["Admin", "Read", "Write", "List", "Tagging"]
+    }
+  ]
+}

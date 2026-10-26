@@ -1,0 +1,5 @@
+node_modules
+dist
+coverage
+package-lock.json
+docs/Solar_ERP_BRD_and_Solution_Architecture.md
